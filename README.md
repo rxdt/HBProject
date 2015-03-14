@@ -1,1 +1,1 @@
-A test program in Python for a potential Hackbright project that works as a static code analyzer of public GitHub repos in order to seek out security vulnerabilities.
+This was a test program written in Python for a potential Hackbright project. This would have been a static code analyzer of public GitHub repos that seeks out security vulnerabilities. It will be implemented eventually.
